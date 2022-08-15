@@ -76,5 +76,6 @@ watermark_button = tk.Button(text='Add watermark', font=MAIN_FONT, command=start
 watermark_button.grid(row=4, column=1)
 
 
+
 window.mainloop()
 
